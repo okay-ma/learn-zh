@@ -1,0 +1,18 @@
+# 系统垃圾文件
+.DS_Store
+
+# 依赖
+node_modules/
+
+# 环境变量
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 运行时状态
+.memory/
+*.log
